@@ -29,8 +29,5 @@ It also supports follow-up Q&A on video content for deeper understanding.
 - Research content digestion
 - Knowledge extraction from long videos
 
-## Demo / Code
-Google Colab Notebook: [Paste Colab Link Here]
-
 ## Notes
 Designed to handle long-form content while maintaining relevance and factual consistency.
